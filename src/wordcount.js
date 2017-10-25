@@ -16,6 +16,7 @@ wordsArray.forEach( word => {
 console.log(Object.keys(wordCountObj));
 console.log(Object.values(wordCountObj));
 
+
 // let wordKeys = Object.keys(wordCountObj);
 // wordKeys = wordKeys.sort();
 //
